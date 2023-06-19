@@ -1,0 +1,9 @@
+﻿  omaha-high-poker.cpp
+C:\Users\nmehra\source\repos\omaha-high-poker\omaha-high-poker\PokerCardSet.h(26,36): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  PlayingCard.cpp
+  PokerCardSet.cpp
+C:\Users\nmehra\source\repos\omaha-high-poker\omaha-high-poker\PokerCardSet.h(26,36): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  PokerHandHigh.cpp
+C:\Users\nmehra\source\repos\omaha-high-poker\omaha-high-poker\PokerCardSet.h(26,36): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  omaha-high-poker.vcxproj -> C:\Users\nmehra\source\repos\omaha-high-poker\x64\Debug\omaha-high-poker.exe
