@@ -26,3 +26,24 @@ To run the program, follow the steps below:
 Please ensure that you have the necessary files in the specified directories before running the program.
 
 Thank you for your interest in Omaha High Poker!
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to submit a pull request.
+
+Before contributing, please ensure that you:
+
+- Follow the existing coding style and conventions.
+- Write clear commit messages.
+- Test your changes thoroughly.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries or questions, please contact:
+
+Sunil Kartikey
+Email: s.kartikey@gmail.com
